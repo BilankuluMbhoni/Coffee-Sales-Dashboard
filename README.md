@@ -21,4 +21,5 @@ To explore the dashboard, clone this repository and open the dashboard file in y
 Contributions to improve the dashboard and insights are welcomed! Please feel free to submit a pull request or open an issue for discussion.
 
 ```
+![coffe sales dash board](https://github.com/user-attachments/assets/aa2fdbc9-beec-4180-9cf1-53810cc281b0)
 
