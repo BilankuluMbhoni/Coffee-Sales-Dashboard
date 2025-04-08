@@ -1,0 +1,36 @@
+PROBLEM STATEMENT 
+
+1. Total sales Analysis
+    Calculate the total sales for each respective month 
+    determine the month-on-month increase or decrease in sales 
+   calculate the difference in sales between the selected month and the previous month 
+
+2. Total order Analysis
+   - Calculate the total number orders for each respective month 
+    -determine the month-on-month increase or decrease in the number of orders 
+   -calculate the difference in the number orders between the selected month and the previous month 
+
+3. Total quantity Analysis
+   - Calculate the total quantity for each respective month 
+    - determine the month-on-month increase or decrease in total quantity sold
+   - calculate the difference in total quantity sold between the selected month and the previous month 
+
+4  Calender Heat Map 
+  - implement a calender heat map that dynamically adjust based on the selected month from a slicer 
+  - Each day on the calender will be colour-coded to represent sales volume, with darker shades indicating sales
+  - implement  tooltips to display  detailed metric (sales,orders,quantity) when hovering a specific day 
+
+5 sales analysis by weekdays and weekends 
+ - segment sales data into weekday and weekdays to analyze perfomance variations
+ - provide insights into weather sales patterns differ significally between weekdays and weekends 
+
+5  SALES ANALYSIS BY STORE LOCATION 
+  - visualize sales data different store locations 
+  -include month-over-month difference metrics based on the selected month in the slicer 
+
+6  DAILY SALES 
+   -highlight bars to identify exceptional sales days
+
+7 sales analysis by product category
+  - analyze sales performance  across different product catergories 
+  - provide insights into which product catergories contribute the most to overall sales
